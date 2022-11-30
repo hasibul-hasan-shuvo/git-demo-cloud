@@ -1,0 +1,8 @@
+- Navigating to directory
+- Git init
+- Git status
+- Git configured (git config user.email “your email here” and git config user.name “your name”)
+- Git add <file name>
+- Git commit -m “the message”
+- Git log
+- Git log —oneline
