@@ -6,3 +6,4 @@
 - Git commit -m “the message”
 - Git log
 - Git log —oneline
+- git push
