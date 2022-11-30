@@ -4,3 +4,4 @@ Session 23
 Topic: Version controlling system.
 Duration: 2 hours
 Github connected
+Partner device created
